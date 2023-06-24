@@ -1,1 +1,2 @@
 mi primera linea de codigo corregida 
+segunda linea de codigo archivo1.txt
