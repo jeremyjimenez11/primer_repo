@@ -1,2 +1,3 @@
 mi primera linea de codigo corregida 
 segunda linea de codigo archivo1.txt
+nueva linea de codigo en futuro_conflicto
