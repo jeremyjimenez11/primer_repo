@@ -1,0 +1,246 @@
+En busca del tiempo perdido
+Marcel Proust
+Ciencia ficcion
+0001
+15
+1
+Crimen y castigo
+Fyodor Dostoevsky
+Ciencia ficcion
+0002
+8
+1
+El principito
+Antoine de Saint-Exupery
+Literatura infantil
+0003
+2
+0
+Matar un ruisenor
+Harper Lee
+Ciencia ficcion
+0004
+12
+0
+Cien años de soledad
+Gabriel Garcia Marquez
+Realismo magico
+0005
+12
+0
+Drácula
+Bram Stoker
+Terror
+0006
+5
+0
+Drácula
+Bram Stoker
+Novela Gotica
+0006
+5
+0
+Otra vuelta de tuerca
+Henry James
+Terror
+0007
+3
+0
+La llamada de Cthulhu
+H.P.Lovecraft
+Terror
+0008
+10
+0
+El Resplandor
+Stephen King
+Novela gotica
+0009
+45
+0
+La leyenda de Sleepy Hollow
+Washington Irving
+Novela gotica
+0010
+12
+0
+Los misterios de Udolfo
+Ann Radcliffe
+Novela gotica
+0012
+10
+0
+El castillo de Otranto
+Horace Walpole
+Novela gotica
+0013
+23
+0
+1984
+George Orwell
+Ciencia ficcion
+0014
+5
+0
+Cien años de soledad
+Gabriel Garcia Marquez
+Realismo magico
+0015
+7
+0
+Matar un ruiseñor
+Harper Lee
+Novela realista
+0016
+3
+0
+Los juegos del hambre
+Suzanne Collins
+Ciencia ficcion
+0017
+4
+0
+El cuento de la criada
+Margaret Atwood
+Distopia
+0018
+6
+0
+Ensayos
+Michel de Montaigne
+Ensayo
+0019
+2
+0
+Ficciones
+Jorge Luis Borges
+Ficcion
+0020
+3
+0
+En el camino
+Jack Kerouac
+Generacion Beat
+0021
+2
+0
+Alicia en el pais de las maravillas
+Lewis Carroll
+Fantasia
+0022
+5
+0
+El codigo Da Vinci
+Dan Brown
+Misterio
+0023
+4
+0
+Crimen y castigo
+Fyodor Dostoevsky
+Novela existencialista
+0024
+3
+0
+Dracula
+Bram Stoker
+Terror
+0025
+4
+0
+Los pilares de la Tierra
+Ken Follett
+Novela historica
+0026
+2
+0
+El perfume
+Patrick Suskind
+Novela de suspense
+0027
+3
+0
+La carretera
+Cormac McCarthy
+Novela postapocaliptica
+0028
+2
+0
+Rebelion en la granja
+George Orwell
+Alegoria política
+0029
+3
+0
+Dune
+Frank Herbert
+Ciencia ficcion
+0030
+4
+0
+Matar a un ruiseñor
+Harper Lee
+Novela realista
+0031
+2
+0
+Los juegos del hambre: En llamas
+Suzanne Collins
+Novela postapocaliptica
+0032
+3
+0
+El cuento de la criada
+Margaret Atwood
+Novela feminista
+0033
+5
+0
+El segundo sexo
+Simone de Beauvoir
+Ensayo feminista
+0034
+2
+0
+El hobbit
+J.R.R. Tolkien
+Fantasia
+0035
+6
+0
+Moby-Dick
+Herman Melville
+Novela de aventuras
+0036
+2
+0
+El profeta
+Kahlil Gibran
+Ficción espiritual
+0037
+3
+0
+En el camino
+Jack Kerouac
+Novela de aventuras
+0038
+2
+0
+Don Quijote de la Mancha
+Miguel de Cervantes
+Novela de aventuras
+0039
+4
+0
+La sombra del viento
+Carlos Ruiz Zafon
+Novela historica
+0040
+3
+0
+
+Carlos Ruiz Zafon
+Novela historica
+0040
+3
+0
